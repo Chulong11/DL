@@ -1,0 +1,13 @@
+# Numerical computing and data processing
+numpy>=1.26
+pandas>=2.0
+
+# Deep-learning framework
+torch>=2.2
+
+# Plotting
+matplotlib>=3.8
+
+# PowerPoint generation
+python-pptx>=1.0
+Pillow>=10.0
