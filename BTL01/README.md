@@ -83,7 +83,6 @@ BTL01/
 │   ├── plot_experiment_B.py      # tổng hợp và vẽ kết quả B
 │   ├── plot_experiment_C.py      # tổng hợp và vẽ kết quả C
 │   └── evaluate_best_model.py    # đánh giá checkpoint đã chọn trên test
-├── build_presentation.py         # tạo baocao.pptx
 ├── baocao.docx                   # báo cáo viết
 ├── baocao.pptx                   # slide thuyết trình
 ├── requirements.txt
