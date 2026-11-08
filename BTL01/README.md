@@ -215,15 +215,7 @@ Kết quả hiện tại trên 100 mẫu test:
 | RMSE | 0.0018059 |
 | R² | 0.9990791 |
 
-### 6. Tạo lại slide PowerPoint
 
-Đảm bảo các biểu đồ kết quả đã tồn tại, sau đó chạy:
-
-```powershell
-python build_presentation.py
-```
-
-File đầu ra là `baocao.pptx`.
 
 ## Thứ tự tái lập toàn bộ
 
